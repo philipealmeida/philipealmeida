@@ -7,12 +7,6 @@ I'm from Brazil, and I'm currently living in beautiful São Paulo.
 [![Linkedin: Philipe](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/almeidaphilipe/)](https://www.linkedin.com/in/almeidaphilipe/) 
 
 
-[![Contacts: X](https://img.shields.io/badge/Contacts-A%20main%20contacts%20webpage-brightgreen&link=https://www.linkedin.com/in/almeidaphilipe/)](https://www.palmeida.netlify.app) 
-
-
-
-
-
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
@@ -37,3 +31,5 @@ These are some of the technologies and tools that I work with:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+My [Main Contacts ✌] webpage. (https://www.palmeida.netlify.app)
