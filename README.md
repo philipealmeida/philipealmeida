@@ -7,6 +7,11 @@ I'm from Brazil, and I'm currently living in beautiful São Paulo.
 [![Linkedin: Philipe](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/almeidaphilipe/)](https://www.linkedin.com/in/almeidaphilipe/) 
 
 
+[![Contacts: X](https://img.shields.io/badge/Contacts-A%20main%20contacts%20webpage-brightgreen&link=https://www.linkedin.com/in/almeidaphilipe/)](https://www.palmeida.netlify.app) 
+
+
+
+
 
 ## ⚡ Technologies
 
