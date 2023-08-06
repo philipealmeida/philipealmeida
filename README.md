@@ -2,7 +2,7 @@
 
 I'm Philipe Almeida. I work as a software engineer and specialize in designing and developing user interfaces for websites.
 
-I currently reside in the charming city of Porto in Portugal🇵🇹.
+I currently live in the charming city of Porto, Portugal 🇵🇹
 
 [![Linkedin: Philipe](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/almeidaphilipe/)](https://www.linkedin.com/in/almeidaphilipe/) 
 
