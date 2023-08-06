@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Philipe Almeida, and I'm a Software Engineer focused in Front End and also UI Designer. 
+I am Philipe Almeida and I am a software engineer with a focus on front end development and user interface design. 
 
-I'm from Brazil, and I'm currently living in beautiful São Paulo.
+I am Brazilian and currently living in the charming city of Porto, Portugal 🇵🇹.
 
 [![Linkedin: Philipe](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/almeidaphilipe/)](https://www.linkedin.com/in/almeidaphilipe/) 
 
