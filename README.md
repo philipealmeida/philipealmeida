@@ -4,12 +4,13 @@ I'm Philipe Almeida. I work as a software engineer and specialize in designing a
 
 I currently live in the charming city of Porto, Portugal 🇵🇹
 
+
+
+My [Main Contacts](https://palmeida.netlify.app/)
+
 [![Linkedin: Philipe](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/almeidaphilipe/)](https://www.linkedin.com/in/almeidaphilipe/) 
 
-My [Main Contacts](https://palmeida.netlify.app/) webpage ✌.
-
-
-## ⚡ Technologies
+### Technologies
 
 These are some of the technologies and tools that I work with:
 
